@@ -3,11 +3,11 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-9610807312861673/5920265655",
-      "main_ads_intertitial":"ca-app-pub-9610807312861673/70700276545",
+      "main_ads_banner": "ca-app-pub-9610807312861673/8748245561",
+      "main_ads_intertitial":"ca-app-pub-9610807312861673/2174835021",
       "backup_ads_banner":"qwert12345",
       "backup_ads_intertitial":"qwert12345",
-      "interval_intertitial": 5,
+      "interval_intertitial": 4,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -23,9 +23,9 @@
   [
     {
       "id":1,
-      "title":"Anime Wallpapers",
-      "image":"https://play-lh.googleusercontent.com/w4QR3ieMsFxLGkb6BJPxXTFzXieDt3TZLothXLkvIfq8LmikZrPmODNnWKmCM-FiKYc=s180",
-      "link":"https://play.google.com/store/apps/details?id=com.hndvstd.anime.wallpaper"
+      "title":"Turning Red Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/AEwzW7mbBy3ijnXmGeld0_XmO2gy6L5XeV3bUMTA1lY71bzeVjI2bzZ_okreZ2BrXsoI=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=com.hndvstd.turningred.wallpapers"
     }
   ],
 
